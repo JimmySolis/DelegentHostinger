@@ -235,3 +235,7 @@ color: rgb(6, 173, 228);
     padding: 30px;
 }
 
+.center{
+    display: flex;
+    justify-content: center;
+}
